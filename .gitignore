@@ -33,6 +33,7 @@ Temporary Items
 _site/
 .sass-cache/
 .jekyll-metadata
+.gitignore
 
 
 ### Sass ###
